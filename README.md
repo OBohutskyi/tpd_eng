@@ -6,6 +6,3 @@ Please don't remove output.csv file from output folder. It would be override onc
 
 ## Running project
 Run `python3 run.py` to start processing files. You'll receive console messages about process status. It will write which file is processing now. After running the project, open output.csv file in output directory to see the results.
-
-##IMPORTANT
-Unfortunately, I receive different results when running project via console and IDE. Results received by running through IDE seems to be correct rather then running through console mode. 
